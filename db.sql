@@ -1,0 +1,4 @@
+-- db name => NagaEd_Courses
+-- table name => course
+-- table_item => id, title, description, duration, fees, createria
+-- create, Read, Update, Delete
